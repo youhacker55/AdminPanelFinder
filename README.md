@@ -1,5 +1,5 @@
 # AdminPanelFinder
-Simple Tool To find AdminPanel
+Simple Tool To find AdminPanel for webservers
 
 <p align="center">
   <b> Follow on Social Media Platforms </b>
