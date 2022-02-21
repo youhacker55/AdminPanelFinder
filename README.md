@@ -14,4 +14,4 @@ Simple Tool To find AdminPanel
 
 # ScreenShots
 
-![](/Screenshot/adminpanelfinder.PNG)
+![](/screenshots/adminpanelfinder.PNG)
