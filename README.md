@@ -18,3 +18,4 @@ Simple Tool To find AdminPanel for webservers
 
 # Updates
 - [x] scrape email from the webpage 
+   ![](/screenshots/screenshot2.jpg)
