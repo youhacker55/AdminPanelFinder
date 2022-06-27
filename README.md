@@ -20,5 +20,4 @@ Simple Tool To find AdminPanel for webservers
 - [x] scrape email from the webpage 
    ![](/screenshots/screenshot2.jpg)
 - [x] Detect Cms
-
-![](/screenshots/detect cms.PNG)
+   ![](/screenshots/detectcms.PNG)
